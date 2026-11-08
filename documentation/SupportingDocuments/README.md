@@ -8,6 +8,9 @@ The API definitions in [`code/API_definitions`](../../code/API_definitions/) are
 * [WebRTC API call flows](uml-diagrams-APIprovider/)
   * Example call flows and messages for implementers of a WebRTC Gateway exposing the WebRTC APIs.
 
+* [WebRTC use cases: SIM-less devices and AI voice agents](webrtc-use-cases-simless-devices-and-ai-agents.md)
+  * Short, business-oriented use cases in the format of the GSMA Open Gateway Use Case Library.
+
 * [WebRTC API user story](WebRTC-API-User-Story_ASP-WebRTCGW.md)
   * User story for an Application Service Provider using a WebRTC Gateway.
 
